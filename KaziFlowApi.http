@@ -1,0 +1,6 @@
+@KaziFlowApi_HostAddress = http://localhost:5128
+
+GET {{KaziFlowApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
